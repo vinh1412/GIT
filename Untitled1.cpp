@@ -9,4 +9,3 @@ void timSoLonNhat(int a, int b){
 	if(a>b){
 		printf("%d lon hon %d", a, b);
 	}
-}
