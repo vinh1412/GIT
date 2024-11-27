@@ -42,6 +42,10 @@
 ![PageLoginImage](https://i.ibb.co/grDhPLT/Page-Login-Image.png)
 <br/>
 
+#### Sign Up For Candidate Page
+![PageSignUpForCandidateImage](https://i.ibb.co/YtfW1tq/Page-Sign-Up-For-Candidate-Image.png)
+<br/>
+
 #### Dashboard Company
 ![PageDashboardCompayImage](https://i.ibb.co/SnMZT4N/Page-Dashboard-Compay-Image.png)
 <br/>
@@ -64,4 +68,8 @@
 
 #### Recommend Skill For Candidate Page
 ![PageSuggestSkillImage](https://i.ibb.co/D9h2jJn/Page-Suggest-Skill-Image.png)
+<br/>
+
+#### Edit Profile Candidate Page
+![PageEditCandidateImage](https://i.ibb.co/nDTzvPy/Page-Edit-Candidate-Image.png)
 <br/>
