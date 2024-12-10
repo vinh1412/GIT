@@ -35,7 +35,7 @@
 <br/>
 
 #### Index Page
-![Index GIF](index.wmv)
+![Index GIF](index.gif)
 <br/>
 
 #### Login Page
