@@ -73,6 +73,6 @@
 #### Edit Profile Candidate Page
 ![PageEditCandidateImage](https://i.ibb.co/nDTzvPy/Page-Edit-Candidate-Image.png)
 <br/>
-![index](https://github.com/user-attachments/assets/52607877-4d28-461b-92aa-b988eb36f2af)
+![index](https://imgur.com/a/hm99uye)
 
 
