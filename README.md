@@ -26,7 +26,7 @@
   
 ## Các giao diện ứng dụng
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G8ErvT1XWkM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+(https://i.ibb.co/TB9N5bp/index.gif)
 
 #### Render List Candidate No Paging
 ![PageListCandidateImage](https://i.ibb.co/cTnf9MN/Page-List-Candidate-Image.png)
