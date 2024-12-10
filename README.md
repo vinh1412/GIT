@@ -35,7 +35,7 @@
 <br/>
 
 #### Index Page
-![PageIndexImage](https://i.ibb.co/5MM6fh4/Page-Index-Image.png)
+![PageIndexImage](https://i.ibb.co/Fzwz7gf/index.gif)
 <br/>
 
 #### Login Page
@@ -73,6 +73,5 @@
 #### Edit Profile Candidate Page
 ![PageEditCandidateImage](https://i.ibb.co/nDTzvPy/Page-Edit-Candidate-Image.png)
 <br/>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/hm99uye" data-context="false" ><a href="//imgur.com/a/hm99uye"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
