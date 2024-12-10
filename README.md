@@ -74,3 +74,8 @@
 ![PageEditCandidateImage](https://i.ibb.co/nDTzvPy/Page-Edit-Candidate-Image.png)
 <br/>
 ![index](https://github.com/user-attachments/assets/b8379f16-7932-43bd-909a-45acb0313c36)
+
+
+
+[Click here to watch the video](https://drive.google.com/file/d/1pSDM14j7bYUkQuOQP2NJ3Oi96ZdUME31/view?usp=sharing)
+
