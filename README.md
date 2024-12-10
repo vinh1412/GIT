@@ -26,7 +26,7 @@
   
 ## Các giao diện ứng dụng
 
-(https://i.ibb.co/TB9N5bp/index.gif)
+![Alt text](https://i.ibb.co/TB9N5bp/index.gif)
 
 #### Render List Candidate No Paging
 ![PageListCandidateImage](https://i.ibb.co/cTnf9MN/Page-List-Candidate-Image.png)
