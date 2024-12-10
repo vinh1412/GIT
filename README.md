@@ -35,7 +35,7 @@
 <br/>
 
 #### Index Page
-![PageLIndexImage](https://imgur.com/PDMOSyZ)
+![Index GIF](index.gif)
 <br/>
 
 #### Login Page
