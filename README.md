@@ -77,5 +77,5 @@
 
 
 
-[Click here to watch the video](https://drive.google.com/file/d/1pSDM14j7bYUkQuOQP2NJ3Oi96ZdUME31/view?usp=sharing)
+[Click here to watch the video](https://drive.google.com/uc?export=download&id=1pSDM14j7bYUkQuOQP2NJ3Oi96ZdUME31)
 
