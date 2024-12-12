@@ -38,6 +38,10 @@
 ![index](https://github.com/user-attachments/assets/739c4db4-52cd-4e88-b0e1-bf6fa60d1689)
 <br/>
 
+#### Statis Page
+![Statis](https://github.com/user-attachments/assets/31091219-5b5f-42f2-8326-627c5146d707)
+<br/>
+
 #### Login Page
 ![PageLoginImage](https://i.ibb.co/8zpmndV/Login.png)
 <br/>
@@ -85,3 +89,7 @@
 #### Job Detail Page
 ![JobDetail](https://github.com/user-attachments/assets/83aaab2a-8dd8-48ff-b71f-4f3a9caabf30)
 <br/>
+
+### Send Mail Apply Job Page
+![ApplyJob](https://github.com/user-attachments/assets/8c7c67a2-aa7d-434c-8e12-a9def2f65672)
+
