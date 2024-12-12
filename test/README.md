@@ -1,4 +1,4 @@
-# Bài tập lớn về ứng dụng tuyển dụng việc làm
+![dashboard_company](https://github.com/user-attachments/assets/9b330f45-c3ac-4c42-b5b0-079613526d53)# Bài tập lớn về ứng dụng tuyển dụng việc làm
 
 ## Giới thiệu về ứng dụng
 Ứng dụng tuyển dụng việc làm là nền tảng kết nối nhà tuyển dụng và người tìm việc một cách nhanh chóng và hiệu quả. Với giao diện thân thiện, các gợi ý việc làm phù hợp, ứng dụng giúp ứng viên dễ dàng có cơ hội việc làm theo đúng kỹ năng. Đồng thời, nhà tuyển dụng có thể tuyển dụng thông qua việc đăng tin, quản lý ứng viên và liên lạc với ứng viên qua email một cách nhanh chóng.
@@ -39,11 +39,11 @@
 <br/>
 
 #### Login Page
-![PageLoginImage](https://i.ibb.co/grDhPLT/Page-Login-Image.png)
+![PageLoginImage](https://i.ibb.co/8zpmndV/Login.png)
 <br/>
 
 #### Dashboard Company
-![PageDashboardCompayImage](https://i.ibb.co/SnMZT4N/Page-Dashboard-Compay-Image.png)
+![dashboard_company](https://github.com/user-attachments/assets/6bc5afc8-e479-4308-bef6-95ac245eeb96)
 <br/>
 
 #### Add Job Page
