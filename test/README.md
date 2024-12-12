@@ -32,7 +32,7 @@
    - Hệ thống hỗ trợ gửi email mời ứng tuyển đến các ứng viên phù hợp.
 
 6. **Chỉnh sửa thông tin nhà tuyển dụng**
-   - Hệ thống cho phép nahf tuyển dụng có thể chỉnh sửa thông tin của công ty.
+   - Hệ thống cho phép nhà tuyển dụng có thể tự chỉnh sửa thông tin của mình.
 
 7. **Tìm kiếm các bài đăng theo tên bài hoặc tên kỹ năng**
    - Hệ thống cho phép nhà tuyển dụng có thể tìm kiếm các công việc đã đăng tuyển theo tên bài hoặc tên kỹ năng.
@@ -51,7 +51,7 @@
    - Hệ thống cho phép ứng viên có thể xem chi tiết các thông tin của công việc như thông tin về công ty tuyển dụng, thông tin về các kỹ năng cần có.
 
 4. **Chỉnh sửa thông tin ứng viên**
-   - Hệ thống cho phép ứng viên có thể chỉnh sửa, cập nhật thêm thông tin, kỹ năng, kinh nghiệm làm việc.
+   - Hệ thống cho phép ứng viên có thể tự chỉnh sửa, cập nhật thêm thông tin, kỹ năng, kinh nghiệm làm việc.
 
 5. **Gửi mail ứng tuyển**
    - Hệ thống cho phép ứng viên có thể gửi mail ứng tuyển công việc cho nhà tuyển dụng.
