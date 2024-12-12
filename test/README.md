@@ -46,11 +46,11 @@
 ![PageLoginImage](https://i.ibb.co/8zpmndV/Login.png)
 <br/>
 
-#### Sign Up For Candidate
+#### Sign Up For Candidate Page
 ![SignUpCandidate](https://github.com/user-attachments/assets/4475ac4a-4f00-4977-bbb7-364a448b537d)
 <br/>
 
-#### Sign Up For Company
+#### Sign Up For Company Page
 ![SignUpCompany](https://github.com/user-attachments/assets/fc39d34e-c1f5-42ed-9383-5eadd2c41638)
 <br/>
 
@@ -58,7 +58,7 @@
 ![dashboard_company](https://github.com/user-attachments/assets/6bc5afc8-e479-4308-bef6-95ac245eeb96)
 <br/>
 
-#### Edit Company
+#### Edit Company Page
 ![EditCompany](https://github.com/user-attachments/assets/54860a9c-238d-42fe-ba2b-f8074e0647a8)
 <br/>
 
