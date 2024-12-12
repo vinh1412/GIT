@@ -14,15 +14,31 @@
   MariaDB hệ quản trị cơ sở dữ liệu quan hệ
 
 ## Mô tả các chức năng:
-- Các chức năng dành cho nhà tuyển dụng:
-  Đăng thông tin tuyển dụng với các skill mong muốn
-  Chỉnh sửa thông tin tuyển dụng
-  Tìm các ứng viên phù hợp cho công việc đã đăng
-  Xóa thông tin tuyển dụng
-  Gửi lời mời tuyển dụng qua email
-- Các chức năng dành cho ứng viên:
-  Tìm kiếm thông tin tuyển dụng theo tên tuyển dụng, tên nhà tuyển dụng, skill
-  Gợi ý các skill mà ứng viên chưa có để học
+### Chức năng dành cho nhà tuyển dụng
+1. **Đăng thông tin tuyển dụng**  
+   - Nhà tuyển dụng có thể đăng các công việc kèm theo các kỹ năng yêu cầu.
+
+2. **Chỉnh sửa thông tin tuyển dụng**  
+   - Nhà tuyển dụng có thể cập nhật thông tin của công việc đã đăng.
+
+3. **Tìm các ứng viên phù hợp**  
+   - Hệ thống hỗ trợ lọc các ứng viên phù hợp với công việc đã đăng.
+
+4. **Xóa thông tin tuyển dụng**  
+   - Cho phép xóa các bài đăng công việc không còn cần thiết.
+
+5. **Gửi lời mời tuyển dụng qua email**  
+   - Hệ thống hỗ trợ gửi email mời ứng tuyển đến các ứng viên.
+
+### Chức năng dành cho ứng viên
+1. **Tìm kiếm thông tin tuyển dụng**  
+   - Tìm kiếm công việc theo:  
+     - Tên tuyển dụng  
+     - Tên nhà tuyển dụng  
+     - Các kỹ năng cần thiết  
+
+2. **Gợi ý kỹ năng cần học**  
+   - Hệ thống gợi ý các kỹ năng còn thiếu để ứng viên có thể học thêm.
   
 ## Các giao diện ứng dụng
 
