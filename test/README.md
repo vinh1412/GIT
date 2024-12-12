@@ -4,14 +4,14 @@
 Ứng dụng tuyển dụng việc làm là nền tảng kết nối nhà tuyển dụng và người tìm việc một cách nhanh chóng và hiệu quả. Với giao diện thân thiện, các gợi ý việc làm phù hợp, ứng dụng giúp ứng viên dễ dàng có cơ hội việc làm theo đúng kỹ năng. Đồng thời, nhà tuyển dụng có thể tuyển dụng thông qua việc đăng tin, quản lý ứng viên và liên lạc với ứng viên qua email một cách nhanh chóng.
 
 ## Công nghệ sử dụng trong dự án
-- Frontend:
-  HTML
-  CSS
-  JavaScript
-  Bootstrap
-- Backend:
-  Java kết hợp với Spring Boot
-  MariaDB hệ quản trị cơ sở dữ liệu quan hệ
+**Frontend:**
+  - HTML
+  - CSS
+  - JavaScript
+  - Bootstrap
+**Backend:**
+  - Java kết hợp với Spring Boot
+  - MariaDB hệ quản trị cơ sở dữ liệu quan hệ
 
 ## Mô tả các chức năng:
 ### Chức năng dành cho nhà tuyển dụng
