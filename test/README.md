@@ -25,10 +25,16 @@
    - Hệ thống hỗ trợ lọc các ứng viên phù hợp với công việc đã đăng.
 
 4. **Xóa thông tin tuyển dụng**  
-   - Cho phép xóa các bài đăng công việc không còn cần thiết.
+   - Cho phép xóa các bài đăng công việc không còn tuyển dụng.
 
 5. **Gửi lời mời tuyển dụng qua email**  
-   - Hệ thống hỗ trợ gửi email mời ứng tuyển đến các ứng viên.
+   - Hệ thống hỗ trợ gửi email mời ứng tuyển đến các ứng viên phù hợp.
+
+6. **Chỉnh sửa thông tin nhà tuyển dụng**
+   - Hệ thống cho phép nahf tuyển dụng có thể chỉnh sửa thông tin của công ty.
+
+7. **Tìm kiếm các bài đăng theo tên bài hoặc tên kỹ năng**
+   - Hệ thống cho phép nhà tuyển dụng có thể tìm kiếm các công việc đã đăng tuyển theo tên bài hoặc tên kỹ năng.
 
 ### Chức năng dành cho ứng viên
 1. **Tìm kiếm thông tin tuyển dụng**  
