@@ -46,12 +46,16 @@
 ![dashboard_company](https://github.com/user-attachments/assets/6bc5afc8-e479-4308-bef6-95ac245eeb96)
 <br/>
 
+#### Edit Company
+![EditCompany](https://github.com/user-attachments/assets/54860a9c-238d-42fe-ba2b-f8074e0647a8)
+<br/>
+
 #### Add Job Page
 ![FormAddJob](https://github.com/user-attachments/assets/f7512dc2-a137-4aed-a7a8-5ce89b02148d)
 <br/>
 
 #### Edit Job Page
-![PageEditJobImage](https://i.ibb.co/FxFC112/Page-Edit-Job-Image.png)
+![FormEditJob](https://github.com/user-attachments/assets/137fb3e9-99a3-4b44-bbbc-5f3c8be87366)
 <br/>
 
 #### Find Candidate For Job Page
