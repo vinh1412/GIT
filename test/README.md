@@ -46,7 +46,16 @@
 
 2. **Gợi ý kỹ năng cần học**  
    - Hệ thống gợi ý các kỹ năng còn thiếu để ứng viên có thể học thêm.
-  
+
+3. **Xem chi tiết các công việc được gợi ý**
+   - Hệ thống cho phép ứng viên có thể xem chi tiết các thông tin của công việc như thông tin về công ty tuyển dụng, thông tin về các kỹ năng cần có.
+
+4. **Chỉnh sửa thông tin ứng viên**
+   - Hệ thống cho phép ứng viên có thể chỉnh sửa, cập nhật thêm thông tin, kỹ năng, kinh nghiệm làm việc.
+
+5. **Gửi mail ứng tuyển**
+   - Hệ thống cho phép ứng viên có thể gửi mail ứng tuyển công việc cho nhà tuyển dụng.
+   
 ## Các giao diện ứng dụng
 
 #### Render List Candidate No Paging
