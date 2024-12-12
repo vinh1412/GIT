@@ -74,6 +74,14 @@
 ![PageDashboardCandidateImage](https://i.ibb.co/XYc62tj/Dashboard-Candidate.png)
 <br/>
 
+#### Edit Candidate Page
+![EditCandidate](https://github.com/user-attachments/assets/6285353b-23cd-40c1-b0af-692dde818e3e)
+<br/>
+
 #### Recommend Skill For Candidate Page
 ![PageSuggestSkillImage](https://i.ibb.co/YjV99Sf/Sugesst-Skill-Candidate.png)
+<br/>
+
+#### Job Detail Page
+![JobDetail](https://github.com/user-attachments/assets/83aaab2a-8dd8-48ff-b71f-4f3a9caabf30)
 <br/>
