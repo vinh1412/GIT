@@ -67,13 +67,13 @@
 <br/>
 
 #### Find Candidate For Job Page
-![FindCandidateForJobImage](https://i.ibb.co/80Yg050/Find-Candidate-For-Job-Image.png)
+![InviteCandidate](https://github.com/user-attachments/assets/0b2c1a8c-6474-4a7a-a194-129000c1df5b)
 <br/>
 
 #### Dashboard Candidate
-![PageDashboardCandidateImage](https://i.ibb.co/L8R8Y0d/Page-Dashboard-Candidate-Image.png)
+![PageDashboardCandidateImage](https://i.ibb.co/XYc62tj/Dashboard-Candidate.png)
 <br/>
 
 #### Recommend Skill For Candidate Page
-![PageSuggestSkillImage](https://i.ibb.co/D9h2jJn/Page-Suggest-Skill-Image.png)
+![PageSuggestSkillImage](https://i.ibb.co/YjV99Sf/Sugesst-Skill-Candidate.png)
 <br/>
