@@ -150,7 +150,7 @@
 ![JobDetail](https://github.com/user-attachments/assets/83aaab2a-8dd8-48ff-b71f-4f3a9caabf30)
 <br/>
 
-### Send Mail Apply Job Page
+#### Send Mail Apply Job Page
 - Trang này cho phép ứng viên có thể gửi mail ứng tuyển cho nhà tuyển dụng về công việc vừa xem.
   
 ![ApplyJob](https://github.com/user-attachments/assets/8c7c67a2-aa7d-434c-8e12-a9def2f65672)
