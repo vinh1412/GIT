@@ -9,7 +9,7 @@
   CSS
   JavaScript
   Bootstrap
-  - Backend:
+- Backend:
   Java kết hợp với Spring Boot
   MariaDB hệ quản trị cơ sở dữ liệu quan hệ
 
@@ -27,15 +27,15 @@
 ## Các giao diện ứng dụng
 
 #### Render List Candidate No Paging
-![PageListCandidateImage](https://i.ibb.co/cTnf9MN/Page-List-Candidate-Image.png)
+![PageListCandidateImage](https://i.ibb.co/3pHkQ5J/Candidate-No-Paging.png)
 <br/>
 
 #### Render List Candidate Paging
-![PageListCandidatePTImage](https://i.ibb.co/hWRtvd5/Page-List-Candidate-PTImage.png)
+![PageListCandidatePTImage](https://i.ibb.co/cDk3Fs7/Candidate-Paging.png)
 <br/>
 
 #### Index Page
-![PageIndexImage](https://i.ibb.co/5MM6fh4/Page-Index-Image.png)
+![PageIndexImage](https://i.ibb.co/MNCpCSC/index.gif)
 <br/>
 
 #### Login Page
