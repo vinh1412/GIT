@@ -47,7 +47,7 @@
 <br/>
 
 #### Add Job Page
-![PageAddJobImage](https://i.ibb.co/72CRbLp/Page-Add-Job-Image.png)
+![FormAddJob](https://github.com/user-attachments/assets/f7512dc2-a137-4aed-a7a8-5ce89b02148d)
 <br/>
 
 #### Edit Job Page
