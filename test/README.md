@@ -68,6 +68,7 @@
 
 #### Index Page
 - Trang này sẽ hiển thị danh sách các công việc giúp các ứng viên có thể tìm kiếm công việc phù hợp, mỗi page hiển thị 12 công việc.
+  
 ![index](https://github.com/user-attachments/assets/739c4db4-52cd-4e88-b0e1-bf6fa60d1689)
 <br/>
 
